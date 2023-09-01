@@ -1,5 +1,5 @@
-# kanban
-Solução de um problema de entrega de recursos para fábricas usando Kanban\
+# kanban 🏭
+Solução de um problema de entrega de recursos para fábricas usando Kanban
 
 ## O Problema
 Há uma indústria coposta por:
